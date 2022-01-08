@@ -18,7 +18,6 @@ const App = () => {
             <Route path='about' element={<About />} />
           </Routes>
         </div>
-        My App
       </Fragment>
     </Router>
     </ContactState>    
